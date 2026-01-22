@@ -11,4 +11,6 @@ Advanced SQL: Utilized CTEs, Window Functions (ROW_NUMBER, OVER), and Temporary 
 
 Predictive Segmenting: Developed a "Flight Risk" model using multi-factor CASE logic (Overtime + Low Satisfaction + 0 Stock Options).
 
-Top Insight: Employees matching the "High Risk" criteria show a significantly higher attrition rate compared to the company average, suggesting that work-life balance (Overtime) is a stronger leaver than pay alone..
+Top Insight: Employees matching the "High Risk" criteria show a significantly higher attrition rate compared to the company average, suggesting that work-life balance (Overtime) is a stronger lever than pay alone.
+
+
